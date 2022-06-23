@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-plugin-circuly",
+  "version": "0.1.0",
+  "description": "Add support for circuly.io to your Gatsby site.",
+  "main": "index.js",
+  "repository": "git@github.com:lipsia/gatsby-plugin-circuly.git",
+  "bugs": {
+    "url": "https://github.com/lipsia/gatsby-plugin-circuly/issues"
+  },
+  "homepage": "https://github.com/lipsia/gatsby-plugin-circuly#readme",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "circuly",
+    "circuly.io"
+  ],
+  "author": "Martin Rehberger <martin.rehberger@lipsia.digital>",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^4.0.0-next",
+    "react": "^16.9.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.9.0 || ^17.0.0 || ^18.0.0"
+  },
+  "engines": {
+    "node": ">=14.15.0"
+  }
+}
